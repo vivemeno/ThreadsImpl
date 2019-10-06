@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vivemeno/CLionProjects/DMOS_Project2/TCB.h
+ucontext.h
+-
+string.h
+/home/vivemeno/CLionProjects/DMOS_Project2/string.h
+
+/home/vivemeno/CLionProjects/DMOS_Project2/main.c
+stdio.h
+-
+stdlib.h
+-
+ucontext.h
+-
+q.h
+/home/vivemeno/CLionProjects/DMOS_Project2/q.h
+
+/home/vivemeno/CLionProjects/DMOS_Project2/q.h
+TCB.h
+/home/vivemeno/CLionProjects/DMOS_Project2/TCB.h
+
